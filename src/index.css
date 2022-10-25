@@ -11,3 +11,14 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.content > .fa, .far, .fas {
+  font-size: 40px;
+}
+
+/* .content .icon-bg{
+  position: absolute;
+  top: -30px;
+  z-index: 3;
+  height: 70px!important;
+} */
